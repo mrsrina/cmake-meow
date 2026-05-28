@@ -7,7 +7,7 @@ required: `SDL2`, `GLEW`, `Ninja` and `CMake`.
 cmake -S . -B ./cmake-build -G Ninja
 
 ; --build = built makefiles
-cmake -B ./cmake-build
+cmake --build ./cmake-build
 
 ; to execute meowgame
 ./bin/meowgame 
