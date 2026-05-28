@@ -1,6 +1,6 @@
 ### cmake-meow
 
-required for building: `SDL2`, `GLEW`, `Ninja` and `CMake`.
+required: `SDL2`, `GLEW`, `Ninja` and `CMake`.
 
 commands to build:
 ```
