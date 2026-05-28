@@ -1,8 +1,6 @@
 ### cmake-meow
 
 required: `SDL2`, `GLEW`, `Ninja` and `CMake`.
-
-commands to build:
 ```
 ; -S = source
 ; -B = makefiles build-output
